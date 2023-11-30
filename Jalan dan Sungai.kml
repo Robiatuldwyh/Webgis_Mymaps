@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jalan dan Sungai</name>
+    <NetworkLink>
+      <name>WEB QGIS PENGGUNAAN LAHAN KECAMATAN BUDURAN, SEDATI, DAN GEDANGAN</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1KkMpv6AyHbuZsWgDaeMG_oUn7VX4SsU&lid=Va3kWhv_6ww]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
